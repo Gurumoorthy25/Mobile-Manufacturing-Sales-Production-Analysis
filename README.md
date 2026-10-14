@@ -1,5 +1,3 @@
-# Mobile-Manufacturing-Sales-Production-Analysis
-Mobile Manufacturing Sales &amp; Production Analysis using Excel and Power BI | Dashboard, Revenue, Inventory &amp; KPI Reporting
 # Mobile Manufacturing Sales & Production Analysis
 
 ## Project Overview
@@ -14,7 +12,7 @@ This project analyzes mobile manufacturing, production, sales, revenue, and inve
 
 ## Tools Used
 - Microsoft Excel
-- Power BI (include only if used)
+- Power BI 
 
 ## Dataset
 The project uses mobile manufacturing data containing production, sales, pricing, and related business information.
